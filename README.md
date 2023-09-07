@@ -6,5 +6,5 @@ This project leverages various data science techniques, including Natural Langua
 ## Dataset
 The dataset used for this project was obtained from Kaggle and contains a collection of product reviews in text format from Amazon. 
 ## Conclusion
-In this project, we successfully predicted customer satisfaction with the product based on text reviews using a single Jupyter Notebook.
+In this project, we successfully predicted customer satisfaction with the product based on text reviews using a Jupyter Notebook.
 The notebook contains all the necessary code and explanations for data preprocessing, exploratory data analysis, model building, and evaluation.
